@@ -40,10 +40,10 @@ Gera o arquivo **objeto** `.OBJ`, representando o código binário intermediári
 ```
 **Saída:** `arquivo.OBJ`
 
-### **4️Execução Completa**
+### **Execução Completa**
 Executa todas as etapas anteriores em sequência automaticamente.
 ```sh
 ./montador -a caminho/para/arquivo.asm
 ```
-**Saída:** `arquivo.PRE, arquivo.MCR, arquivo.OBJ`
+**Saída:** `arquivo.PRE` `arquivo.MCR` `arquivo.OBJ`
 
