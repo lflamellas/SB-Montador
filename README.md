@@ -45,5 +45,5 @@ Executa todas as etapas anteriores em sequência automaticamente.
 ```sh
 ./montador -a caminho/para/arquivo.asm
 ```
-**Saída:** `arquivo.PRE` `arquivo.MCR` `arquivo.OBJ`
+**Saída:** `arquivo.PSRD` `arquivo.PRE` `arquivo.MCR` `arquivo.OBJ`
 
